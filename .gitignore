@@ -1,0 +1,9 @@
+xenelectronic-backend/node_modules
+xenelectronic-frontend/node_modules
+xenelectronic-backend/package-lock.json
+xenelectronic-frontend/package-lock.json
+xenelectronic-backend/.env
+xenelectronic-frontend/.env
+xenelectronic-frontend/node_modules
+xenelectronic-frontend/.next
+xenelectronic-frontend/out
