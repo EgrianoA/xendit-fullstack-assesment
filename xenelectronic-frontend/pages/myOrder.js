@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { Row, Col, Modal, Popconfirm, Tabs, Icon } from 'antd';
+import { Row, Col, Modal, Popconfirm, Tabs, Button, Icon } from 'antd';
 import axios from 'axios';
 import Router from 'next/router';
 import openNotification from '../components/_shared/open-notification'
@@ -269,8 +269,8 @@ const myOrder = () => {
                                                                 </Col>
                                                                 <Col xs={24} md={4} lg={4}>
                                                                     <center>
-                                                                        <p>Total Price</p>
-                                                                        <p>{convertToRp(parseInt(order.total))}</p>
+                                                                    <p>Total Price</p>
+                                                                    <p>{convertToRp(parseInt(order.total))}</p>
                                                                     </center>
                                                                 </Col>
 

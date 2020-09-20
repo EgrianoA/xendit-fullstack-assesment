@@ -10,7 +10,6 @@ axios.defaults.baseURL = process.env.API_GATEWAY;
 const _app = props => {
   const [showComponent, setShowComponent] = useState(false);
   const [visible, setVisible] = useState(false);
-  const childRefHead = useRef();
 
   useEffect(() => {
     setTimeout(() => {
@@ -32,7 +31,7 @@ const _app = props => {
   //   childRefNav.current.toggle(value);
   // };
 
-  };
+  const { Component, pageProps } = props;
 
   return (
     <div>
