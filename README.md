@@ -17,7 +17,7 @@ What things you need to install the software and how to install them
 
 ### Installing
 
-This application is running on local
+How to run this application is on local
 ```
 1. Extract the xenelectronic-db.zip file, then import the folder to MongoDB
 2. Open the xenelectronic-backend folder in terminal and do npm install and to run it do npm run start
