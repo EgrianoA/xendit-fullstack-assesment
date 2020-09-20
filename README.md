@@ -38,6 +38,9 @@ Or you can just signup as new user
 To test the API, you can import this collection to your postman
 https://www.getpostman.com/collections/84681b38eb32d54d2614
 
+## Deployment
+
+Unfortunately, since mLab discontinue to the MongoDB add on, so I can't deploy the backend to the Heroku, and the front end is running on https://egrianoa.github.io/xenelectronic-frontend/ but since the API is not working, so can do nothing to the frontend
 
 ## Built With
 
