@@ -4,7 +4,7 @@ const path = require('path');
 const Dotenv = require('dotenv-webpack');
 const withSass = require('@zeit/next-sass');
 const webpack = require('webpack')
-const assetPrefix = '/'
+const assetPrefix = '/xenelectronic-frontend'
 
 module.exports = withSass({
   devIndicators: {
