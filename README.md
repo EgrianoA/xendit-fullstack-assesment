@@ -40,7 +40,7 @@ https://www.getpostman.com/collections/84681b38eb32d54d2614
 
 ## Deployment
 
-Unfortunately, since mLab discontinue to the MongoDB add on, so I can't deploy the backend to the Heroku, and the front end is running on https://egrianoa.github.io/xenelectronic-frontend/ but since the API is not working, so can do nothing to the frontend. (Except you running the API on local, I think it's gonna somehow on my device with API running in the local, the website can working)
+Unfortunately, since mLab discontinue to the MongoDB add on, so I can't deploy the backend to the Heroku, and the front end is running on https://egrianoa.github.io/xenelectronic-frontend/ but since the API is not working, so can do nothing to the frontend. (Except you running the API on local, I think it's gonna works because somehow on my device with API running in the local, the website can working well)
 
 ## Built With
 
